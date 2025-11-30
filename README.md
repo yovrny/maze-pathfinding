@@ -43,5 +43,14 @@ BFS:
 ![BFSgif](https://github.com/user-attachments/assets/24827a44-7dca-4b55-8b02-ca1dd119d464)
 Custom Algorithm:
 ![Greedywithfallbackgif](https://github.com/user-attachments/assets/0235e3c9-8276-4a7b-bed1-b1abc1884d11)
+__________________________________________________________________________________________________________
+
+![morecustomgif1](https://github.com/user-attachments/assets/684c2283-8234-4bc9-9ce0-b2613cb95715)
+__________________________________________________________________________________________________________
+
+![morecustomgif2](https://github.com/user-attachments/assets/dd7d2888-8bf2-41aa-af5a-e5f3e61b7119)
+
+
+
 
 
